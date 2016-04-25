@@ -1,6 +1,7 @@
 body{
-	background-image: url("../image/grif.jpg");
+	background: url("../image/grif.jpg") no-repeat;
 	/*background-position: -370px -35px;*/
+	background-size: cover;
 }
 
 
